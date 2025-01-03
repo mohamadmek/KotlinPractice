@@ -1,3 +1,44 @@
 <resources>
     <string name="app_name">MyHamburgApp</string>
+    <string name="title_2">Altona</string>
+    <string name="short_description_2">A historic district by the Elbe River.</string>
+    <string name="description_2">Altona is known for its beautiful waterfront, cultural diversity, and vibrant weekly fish market, offering a glimpse into Hamburg's rich history.</string>
+
+    <string name="title_3">Blankenese</string>
+    <string name="short_description_3">A charming village on the Elbe.</string>
+    <string name="description_3">Blankenese is famous for its picturesque hillside, winding streets, and stunning views of the Elbe River, making it a must-visit in Hamburg.</string>
+
+    <string name="title_4">Eimsbüttel</string>
+    <string name="short_description_4">A lively and green district in Hamburg.</string>
+    <string name="description_4">Eimsbüttel combines vibrant urban life with serene parks, trendy cafes, and a strong sense of community, ideal for families and young professionals alike.</string>
+
+    <string name="title_5">Harburg</string>
+    <string name="short_description_5">A thriving area in southern Hamburg.</string>
+    <string name="description_5">Harburg boasts a mix of modern urban development and historical charm, with its harbor, museums, and lively cultural scene.</string>
+
+    <string name="title_6">St. Pauli</string>
+    <string name="short_description_6">Hamburg entertainment hub.</string>
+    <string name="description_6">St. Pauli is famous for its nightlife, iconic Reeperbahn street, and football culture, attracting visitors from around the world for its unique energy.</string>
+
+    <string name="title_7">Bergedorf</string>
+    <string name="short_description_7">A quaint borough with castle charm.</string>
+    <string name="description_7">Bergedorf offers a small-town feel with its historic castle, lush greenery, and peaceful waterways, perfect for a quiet escape.</string>
+
+    <string name="title_8">Niendorf</string>
+    <string name="short_description_8">A tranquil residential district.</string>
+    <string name="description_8">Niendorf is known for its peaceful neighborhoods, proximity to the Niendorfer Gehege forest, and easy access to Hamburg city center.</string>
+
+    <string name="title_9">HafenCity</string>
+    <string name="short_description_9">A modern urban waterfront area.</string>
+    <string name="description_9">HafenCity is an architectural marvel, featuring contemporary design, cultural hotspots, and stunning views of Hamburgs harbor.</string>
+
+    <string name="title_10">Wilhelmsburg</string>
+    <string name="short_description_10">Hamburgs vibrant island district.</string>
+    <string name="description_10">Wilhelmsburg is a dynamic area with an eclectic mix of cultures, green spaces, and innovative urban projects, making it a unique part of the city.</string>
+
+    <string name="title_11">Rotherbaum</string>
+    <string name="short_description_11">A sophisticated district in Hamburg.</string>
+    <string name="description_11">Rotherbaum is renowned for its upscale ambiance, university campus, and beautiful Alster lakeside, offering a blend of culture and tranquility.</string>
+
+
 </resources>
