@@ -1,4 +1,4 @@
-package com.example.chatapp
+package com.example.chatter
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
@@ -11,17 +11,19 @@ import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.tooling.preview.Preview
-import com.example.chatapp.screens.SignInScreen
-import com.example.chatapp.ui.theme.ChatappTheme
+import com.example.chatter.ui.theme.ChatterTheme
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         enableEdgeToEdge()
         setContent {
-            ChatappTheme {
+            ChatterTheme {
                 Scaffold(modifier = Modifier.fillMaxSize()) { innerPadding ->
-                    SignInScreen(innerPadding)
+                    Greeting(
+                        name = "Android",
+                        modifier = Modifier.padding(innerPadding)
+                    )
                 }
             }
         }
@@ -39,7 +41,7 @@ fun Greeting(name: String, modifier: Modifier = Modifier) {
 @Preview(showBackground = true)
 @Composable
 fun GreetingPreview() {
-    ChatappTheme {
+    ChatterTheme {
         Greeting("Android")
     }
 }
